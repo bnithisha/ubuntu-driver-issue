@@ -1,0 +1,16 @@
+monitor shows change the input timings to 1930X1080, 60hz
+this is because the driver is not installed
+https://medium.com/better-programming/how-i-fixed-my-display-resolution-by-installing-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux-489563052f6c
+
+actual one is this
+https://www.linuxbabe.com/ubuntu/install-nvidia-driver-ubuntu-18-04
+
+
+default username and password of live ubuntu media
+https://serverfault.com/questions/26185/whats-the-default-username-and-password-for-an-ubuntu-live-cd
+
+
+
+
+intalling ubuntu from ubuntu server
+https://www.pugetsystems.com/labs/hpc/The-Best-Way-To-Install-Ubuntu-18-04-with-NVIDIA-Drivers-and-any-Desktop-Flavor-1178/
